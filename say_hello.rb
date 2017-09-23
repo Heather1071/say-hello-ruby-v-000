@@ -1,3 +1,3 @@
-def say_hello(Heather)
+def say_hello("Heather")
 
   # Build your say_hello method here
